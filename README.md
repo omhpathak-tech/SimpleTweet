@@ -2,12 +2,6 @@
 
 **TweetReplica** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-
-<img src='https://github.com/omhpathak-tech/SimpleTweet/blob/master/tweet1.gif' width='' alt='Video Walkthrough' />
-
-
-
-
 <img src='https://github.com/omhpathak-tech/SimpleTweet/blob/master/tweet2.gif' width='' alt='Video Walkthrough' />
 
 
